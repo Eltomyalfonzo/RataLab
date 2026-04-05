@@ -1,0 +1,6 @@
+{
+  "name": "Motors",
+  "version": "1.0.0",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"]
+}
